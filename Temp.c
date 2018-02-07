@@ -1,6 +1,6 @@
 #include <windows.h>
 
-
+New Line
 
 int PASCAL WinMain(HANDLE hInstance, HANDLE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
